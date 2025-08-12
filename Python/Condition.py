@@ -1,6 +1,7 @@
 # Example of condition statements in Python
 
-age = 18
+# Get age input from user
+age = int(input("Enter your age: "))
 
 if age >= 18:
     print("You are an adult.")
