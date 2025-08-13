@@ -1,0 +1,4 @@
+John Doe, johndoe@example.com, 35, New York
+Jane Smith, janesmith@example.com, 28, Los Angeles
+Mike Brown, mikebrown@example.com, 42, Chicago
+Data Scientist, Alice, 30, San Francisco

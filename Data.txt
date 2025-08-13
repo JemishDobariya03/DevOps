@@ -1,0 +1,2 @@
+Hello! This is Important data Store Through Python File.
+We are Writing From File handling

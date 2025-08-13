@@ -1,0 +1,43 @@
+Datatype:
+String - sentence, word, character
+Integer - whole number for example 1, 2, 3, 4, 5
+Float - decimal number for example 1.1, 2.4, 3.7, 4.4, 5.5
+Boolean - True or False value
+
+Objects:
+List
+Dictionary
+Set/Tuple
+
+Conditional Operators:
+== equal to
+!= not equal to
+> greater than
+< less than
+>= greater than or equal to
+<<= less than or equal to
+
+\n- new line
+
+Common Python Modules:
+
+OS - operating system
+sys - system
+re - regular expression
+math - mathematical functions
+random - random number generator
+datetime - date and time
+json - javascript object notation
+
+Different File Modes:
+r - read
+W - write
+a - append
+г+ - read and write
+W+ - write and read
+a+ - append and read
+rb - read binary
+wb - write binary
+ab - append binary
+
+STDIN and STDOUT:

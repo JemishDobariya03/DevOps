@@ -1,0 +1,6 @@
+f = open("data.txt", "r+")
+data = f.read()
+print("New Data from file:")
+print(data)
+f.write("\nData Scientist, Alice, 30, San Francisco")
+f.close()
